@@ -18,7 +18,8 @@ To access Anthropic's official brand identity and style resources, use this skil
 
 **Main Colors:**
 
-- Dark: `#141413` - Primary text and dark backgrounds
+- <!--Dark: `#141413` - Primary text and dark backgrounds-->
+- Dark: `#336699` - Primary text and dark backgrounds
 - Light: `#faf9f5` - Light backgrounds and text on dark
 - Mid Gray: `#b0aea5` - Secondary elements
 - Light Gray: `#e8e6dc` - Subtle backgrounds
